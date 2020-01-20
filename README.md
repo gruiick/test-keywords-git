@@ -1,13 +1,18 @@
 # test-keywords-git
 keyword expansion testing
 
+this one will change each commit, the other one will not.
+
+$Id: README.md 1.2 $
+$IdBlockFurtherExpansion$
+
 Some of my (pro and personal) workflows need keywords expansion (à la svn). 
 
 I want to test some solutions here.
 
 ## basic method
 
-simply add the actual hash of the commit into $Id: README.md 1.1 $
+simply add the actual hash of the commit into $Id$
 
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes
 
