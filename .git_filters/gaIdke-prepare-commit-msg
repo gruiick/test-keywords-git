@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 ########################################################################
 #
-# $Id: gaIdke-prepare-commit-msg 1.7 $
+# $Id: gaIdke-prepare-commit-msg 1.8 $
 # $IdBlockFurtherExpansion$
 #
 #  Copyright © 2016 John E Wulff <immediatec@gmail.com>

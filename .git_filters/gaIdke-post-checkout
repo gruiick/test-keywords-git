@@ -1,7 +1,7 @@
 #!/bin/sh
 ########################################################################
 #
-# $Id: gaIdke-post-checkout 1.2 $
+# $Id: gaIdke-post-checkout 1.3 $
 # $IdBlockFurtherExpansion$
 #
 #  Copyright © 2016 John E Wulff <immediatec@gmail.com>
